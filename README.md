@@ -28,5 +28,5 @@ The project is designed to showcase advanced AI integration, agent-based workflo
 - **Data processing and retrieval**
 
 ---
-pip install -r requirements.txt
-python agent1.py
+-pip install -r requirements.txt
+-python agent1.py
